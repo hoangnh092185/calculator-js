@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script type="text/javascript" src="build/js/app.js"></script>
+  <title>Calculator</title>
+  </head>
+  <body>
+    <form id="calculator-form">
+      <label for="number1">Enter a Number</label>
+      <input id="number1" type="number"><br>
+      <label for="operator">Select an operator</label>
+      <select id="operator" name="operator">
+        <option>add</option>
+        <option>subtract</option>
+        <option>multiply</option>
+        <option>divide</option>
+      </select><br>
+      <label for="number2">Enter second number</label>
+      <input id="number2" type="number">
+      <button type="submit">Submit</button>
+    </form>
+    <ul id="solution"></ul>
+  </body>
+</html>
