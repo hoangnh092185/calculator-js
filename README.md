@@ -9,7 +9,7 @@ Prerequisites
 Installation
 - git clone <https://github.com/hoangnh092185/calculator-js> this repository.
 - cd calculator-js
-- open https://localhost:4200/angular2-taproom2 and you should able to see the project.
+- open https://localhost:4200/calculator-js and you should able to see the project.
 
 Known Bug
 
