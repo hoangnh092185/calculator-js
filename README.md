@@ -1,6 +1,6 @@
 Calculator
 
-Calculator is a simple browser built with Javascript. This browser is to demonstrate using javascript to take in user inputs and display the calculated answer. 
+Calculator is a simple browser written in Javascript. This browser is to demonstrate using javascript to take in user inputs and display the calculated answer. 
 
 Prerequisites
 - Node.js
